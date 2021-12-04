@@ -1,3 +1,2 @@
 # posenet-emotion-detection
 This project uses ML trained library called PoseNet and it detects 3 emotions from human poses. Scary, happy, disgusted and if pose will not fit each of these emotions, it will output garbage emotion. Main code is in sketch.js file. ...min.js librariesnare important do not delete them. In the index.html file you can specify the sizes, colors of the window where emotions will be shown
-+=
